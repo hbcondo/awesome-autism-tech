@@ -5,14 +5,14 @@
 
 ## 📑 Contents
 
-- [News](#📰-news)
-- [Incubators](#🌱-incubators)
-- [Hackathons](#💻-hackathons)
-- [Multidisciplinary](#🗼-multidisciplinary)
-- [Data Collection](#📊-data-collection)
-- [Practice Management](#📒-practice-management)
-- [Personalized Plans](#👫-personalized-plans)
-- [AR / VR](#👓-ar--vr)
+- [News](#news)
+- [Incubators](#incubators)
+- [Hackathons](#hackathons)
+- [Multidisciplinary](#multidisciplinary)
+- [Data Collection](#data-collection)
+- [Practice Management](#practice-management)
+- [Personalized Plans](#personalized-plans)
+- [AR / VR](#ar--vr)
 
 ## 📰 News
 
