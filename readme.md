@@ -1,30 +1,86 @@
 # Awesome Autism Tech [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> my desc
+> A curated list of awesome technologies related to Autism Spectrum Disorder (ASD)[^1].
 
 
-## Contents
+## 📑 Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [News](#📰-news)
+- [Incubators](#🌱-incubators)
+- [Hackathons](#💻-hackathons)
+- [Multidisciplinary](#🗼-multidisciplinary)
+- [Data Collection](#📊-data-collection)
+- [Practice Management](#📒-practice-management)
+- [Personalized Plans](#👫-personalized-plans)
+- [AR / VR](#👓-ar--vr)
 
+## 📰 News
 
-## Section
+Current events and headlines
 
-About this section. Optional. Keep this short and focus on the list.
+- [The Transmitter](https://www.thetransmitter.org/)
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+## 🌱 Incubators
 
+For startups seeking mentorship and funding 
 
-## Another Section
+- [Autism Angels Group](https://www.autismangelsgroup.com)
+- [Multiple](https://www.multiplehub.org)
 
-### Subsection
+## 💻 Hackathons
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+Collaborative events for kicking out code
 
+- [FSI Hackathon for Autism](https://fsi-hack4autism.github.io)
 
-## Contribute
+## 🗼 Multidisciplinary
+
+Companies that provide an ecosystem of software
+
+- [CentralReach](https://centralreach.com)
+- [Therapy Brands](https://therapybrands.com)
+
+## 📊 Data Collection
+
+Trial, targets, task analysis and more during therapy sessions
+
+- [SpectrumAi](https://www.spectrumai.com)
+- [Hi Rasmus](https://hirasmus.com)
+- [Motivity](https://www.motivity.net)
+
+## 📒 Practice Management
+
+HIPAA-compliance, appointment scheduling, invoicing and more for behavioral health service companies
+
+- [ABA Building Blocks](https://ababuildingblocks.com)
+- [Lumary](https://lumary.com)
+
+## 👫 Personalized Plans
+
+Identify learning opportunities and parenting techniques
+
+- [Tilly](https://tillytherapy.com)
+- [Forta Health](https://www.fortahealth.com)
+- [Attend Behavior](https://www.attendbehavior.com)
+
+## 👓 AR / VR
+
+Augmented Reality (AR) / Virtual Reality (VR) solutions
+
+- [Floreo](https://floreovr.com)
+- [SocialWise VR](https://www.socialwisevr.com)
+- [jelikalite](https://jelikalite.com)
+
+## 👐 Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+## ✍️ Authors
+
+- [@hbcondo](https://github.com/hbcondo) - idea & initial work
+
+## 🙌 Acknowledgements
+
+- [generator-awesome-list](https://github.com/dar5hak/generator-awesome-list)
+
+[^1]: https://www.cdc.gov/ncbddd/autism/facts.html
