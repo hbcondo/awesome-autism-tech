@@ -13,6 +13,7 @@
 - [Practice Management](#practice-management)
 - [Personalized Plans](#personalized-plans)
 - [AR / VR](#ar--vr)
+- [Open Source](#open-source)
 
 ## 📰 News
 
@@ -26,6 +27,7 @@ For startups seeking mentorship and funding
 
 - [Autism Angels Group](https://www.autismangelsgroup.com)
 - [Multiple](https://www.multiplehub.org)
+- [Microsoft Accessibility Grant](https://www.microsoft.com/en-us/accessibility/innovation?rtc=1#coreui-feature-9iujsju)
 
 ## 💻 Hackathons
 
@@ -70,6 +72,12 @@ Augmented Reality (AR) / Virtual Reality (VR) solutions
 - [Floreo](https://floreovr.com)
 - [SocialWise VR](https://www.socialwisevr.com)
 - [jelikalite](https://jelikalite.com)
+
+## ⛪ Open Source
+
+Repositories for code
+
+- [therapy-aid-tool](https://github.com/solisoares/therapy-aid-tool)
 
 ## 👐 Contribute
 
