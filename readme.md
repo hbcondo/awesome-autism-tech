@@ -78,6 +78,8 @@ Augmented Reality (AR) / Virtual Reality (VR) solutions
 Repositories for code
 
 - [therapy-aid-tool](https://github.com/solisoares/therapy-aid-tool)
+- [cboard](https://github.com/cboard-org/cboard)
+- [SincNet-for-Autism-EEG-based-Emotion-Recognition](https://github.com/meiyor/SincNet-for-Autism-EEG-based-Emotion-Recognition)
 
 ## 👐 Contribute
 
