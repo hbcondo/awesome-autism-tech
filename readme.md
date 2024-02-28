@@ -19,67 +19,67 @@
 
 Current events and headlines
 
-- [The Transmitter](https://www.thetransmitter.org/)
+- [The Transmitter](https://www.thetransmitter.org/) - Formerly SpectrumNews.org, this is a new publication for the neuroscience community.
 
 ## 🌱 Incubators
 
 For startups seeking mentorship and funding 
 
-- [Autism Angels Group](https://www.autismangelsgroup.com)
-- [Multiple](https://www.multiplehub.org)
-- [Microsoft Accessibility Grant](https://www.microsoft.com/en-us/accessibility/innovation?rtc=1#coreui-feature-9iujsju)
+- [Autism Angels Group](https://www.autismangelsgroup.com) - 501(c)(3) fiscal sponsored non-profit with portfolio + investments in FloreoVR and LiftEd (acquired by CentralReach).
+- [Multiple](https://www.multiplehub.org) - Non-profit innovation platform 501(c)(3) with 12 week accelerator program.
+- [Microsoft Accessibility Grant](https://www.microsoft.com/en-us/accessibility/innovation?rtc=1#coreui-feature-9iujsju) - Funding, mentoring and Azure compute credits with developer support.
 
 ## 💻 Hackathons
 
 Collaborative events for kicking out code
 
-- [FSI Hackathon for Autism](https://fsi-hack4autism.github.io)
+- [FSI Hackathon for Autism](https://fsi-hack4autism.github.io) - Financial Services Industry (FSI) developers creating open source projects for the community using Microsoft technologies.
 
 ## 🗼 Multidisciplinary
 
-Companies that provide an ecosystem of software
+Companies that provide an ecosystem of software solutions covering multiple therapies
 
-- [CentralReach](https://centralreach.com)
-- [Therapy Brands](https://therapybrands.com)
+- [CentralReach](https://centralreach.com) - Practice management, revenue cycle management (RCM) services, clinical solutions + assessments, staff development.
+- [Therapy Brands](https://therapybrands.com) - Two products for ABA (WebABA + Catalyst) and one product for PT / OT / Speech therapies (Fusion).
 
 ## 📊 Data Collection
 
 Trial, targets, task analysis and more during therapy sessions
 
-- [SpectrumAi](https://www.spectrumai.com)
-- [Hi Rasmus](https://hirasmus.com)
-- [Motivity](https://www.motivity.net)
+- [SpectrumAi](https://www.spectrumai.com) - Electronic health record (EHR) and network performance for ABA.
+- [Hi Rasmus](https://hirasmus.com) - Custom integrations / API, Single Sign-on (SSO), founded by a tech entrepreneur inspired by his child diagnosed with ASD.
+- [Motivity](https://www.motivity.net) - Reports data collected in real-time.
 
 ## 📒 Practice Management
 
-HIPAA-compliance, appointment scheduling, invoicing and more for behavioral health service companies
+HIPAA-compliance, appointment scheduling, invoicing and more for behavioral health service providers
 
-- [ABA Building Blocks](https://ababuildingblocks.com)
-- [Lumary](https://lumary.com)
+- [ABA Building Blocks](https://ababuildingblocks.com) - Consulting and business services including mergers & acquisitions (M&A) and turnkey solutions.
+- [Lumary](https://lumary.com) - Workflow optimizations; built on Salesforce.
 
 ## 👫 Personalized Plans
 
 Identify learning opportunities and parenting techniques
 
-- [Tilly](https://tillytherapy.com)
-- [Forta Health](https://www.fortahealth.com)
-- [Attend Behavior](https://www.attendbehavior.com)
+- [Tilly](https://tillytherapy.com) - Dedicated mobile app for tracking child's progress, messaging and scheduling.
+- [Forta Health](https://www.fortahealth.com) - Raised $55 Million Series A to continue AI-enabled ABA therapy and clinical algorithms.
+- [Attend Behavior](https://www.attendbehavior.com) - Learning content, videos and custom support plans in a dedicated mobile app.
 
 ## 👓 AR / VR
 
-Augmented Reality (AR) / Virtual Reality (VR) solutions
+Augmented Reality (AR) / Virtual Reality (VR) wearables
 
-- [Floreo](https://floreovr.com)
-- [SocialWise VR](https://www.socialwisevr.com)
-- [jelikalite](https://jelikalite.com)
+- [Floreo](https://floreovr.com) - FDA breakthrough designated device for providing VR therapy to the neurodiverse.
+- [SocialWise VR](https://www.socialwisevr.com) - On-Demand VR social skills curriculum for neurodivergent young adults.
+- [JelikaLite](https://jelikalite.com) - Clinical stage therapeutic wearable device for reducing a child's autism symptoms.
 
 ## ⛪ Open Source
 
 Repositories for code
 
-- [therapy-aid-tool](https://github.com/solisoares/therapy-aid-tool)
-- [cboard](https://github.com/cboard-org/cboard)
-- [SincNet-for-Autism-EEG-based-Emotion-Recognition](https://github.com/meiyor/SincNet-for-Autism-EEG-based-Emotion-Recognition)
+- [therapy-aid-tool](https://github.com/solisoares/therapy-aid-tool) - Monitor patient's progress in autism therapies using computer vision.
+- [cboard](https://github.com/cboard-org/cboard) - Augmentative and Alternative Communication (AAC) system with text-to-speech for the browser.
+- [SincNet-for-Autism-EEG-based-Emotion-Recognition](https://github.com/meiyor/SincNet-for-Autism-EEG-based-Emotion-Recognition) - EEG-based emotion recognition using SincNet from ASD patients.
 
 ## 👐 Contribute
 
