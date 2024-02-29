@@ -5,15 +5,15 @@
 
 ## 📑 Contents
 
-- [News](#news)
-- [Incubators](#incubators)
-- [Hackathons](#hackathons)
-- [Multidisciplinary](#multidisciplinary)
-- [Data Collection](#data-collection)
-- [Practice Management](#practice-management)
-- [Personalized Plans](#personalized-plans)
-- [AR / VR](#ar--vr)
-- [Open Source](#open-source)
+- [News](#-news)
+- [Incubators](#-incubators)
+- [Hackathons](#-hackathons)
+- [Multidisciplinary](#-multidisciplinary)
+- [Data Collection](#-data-collection)
+- [Practice Management](#-practice-management)
+- [Personalized Plans](#-personalized-plans)
+- [AR / VR](#-ar--vr)
+- [Open Source](#-open-source)
 
 ## 📰 News
 
