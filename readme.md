@@ -26,14 +26,14 @@ Current events and headlines
 For startups seeking mentorship and funding 
 
 - [Autism Angels Group](https://www.autismangelsgroup.com) - Non-profit; portfolio / investments in FloreoVR and LiftEd (acquired by CentralReach).
-- [Multiple](https://www.multiplehub.org) - Non-profit innovation platform with 12-week accelerator program, innovation database, lab-to-market programs and more.
+- [Multiple](https://www.multiplehub.org) - Non-profit with 12-week accelerator and lab-to-market programs.
 - [Microsoft Accessibility Grant](https://www.microsoft.com/en-us/accessibility/innovation?rtc=1#coreui-feature-9iujsju) - Funding, mentoring and Azure compute credits with developer support.
 
 ## 💻 Hackathons
 
 Collaborative events for kicking out code
 
-- [FSI Hackathon for Autism](https://fsi-hack4autism.github.io) - Financial Services Industry (FSI) developers creating open source projects using Microsoft technologies.
+- [FSI Hackathon for Autism](https://fsi-hack4autism.github.io) - Financial Services Industry (FSI) devs creating FOSS projects with Microsoft tech.
 
 ## 🗼 Multidisciplinary
 
@@ -48,7 +48,7 @@ Companies that provide an ecosystem of software solutions covering multiple ther
 Trial, targets, task analysis and more during therapy sessions
 
 - [SpectrumAi](https://www.spectrumai.com) - Electronic health record (EHR) and network performance for ABA.
-- [Hi Rasmus](https://hirasmus.com) - API, Single Sign-on (SSO); founded by a tech entrepreneur inspired by his child diagnosed with ASD.
+- [Hi Rasmus](https://hirasmus.com) - API, SSO; founded by a tech entrepreneur inspired by his child diagnosed with ASD.
 - [Motivity](https://www.motivity.net) - Reports data collected in real-time.
 
 ## 📒 Practice Management
