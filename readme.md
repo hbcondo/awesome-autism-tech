@@ -25,36 +25,37 @@ Current events and headlines
 
 For startups seeking mentorship and funding 
 
-- [Autism Angels Group](https://www.autismangelsgroup.com) - 501(c)(3) fiscal sponsored non-profit with portfolio + investments in FloreoVR and LiftEd (acquired by CentralReach).
-- [Multiple](https://www.multiplehub.org) - Non-profit innovation platform 501(c)(3) with 12 week accelerator program.
+- [Autism Angels Group](https://www.autismangelsgroup.com) - Non-profit; portfolio / investments in FloreoVR and LiftEd (acquired by CentralReach).
+- [Multiple](https://www.multiplehub.org) - Non-profit innovation platform with 12-week accelerator program, innovation database, lab-to-market programs and more.
 - [Microsoft Accessibility Grant](https://www.microsoft.com/en-us/accessibility/innovation?rtc=1#coreui-feature-9iujsju) - Funding, mentoring and Azure compute credits with developer support.
 
 ## 💻 Hackathons
 
 Collaborative events for kicking out code
 
-- [FSI Hackathon for Autism](https://fsi-hack4autism.github.io) - Financial Services Industry (FSI) developers creating open source projects for the community using Microsoft technologies.
+- [FSI Hackathon for Autism](https://fsi-hack4autism.github.io) - Financial Services Industry (FSI) developers creating open source projects using Microsoft technologies.
 
 ## 🗼 Multidisciplinary
 
 Companies that provide an ecosystem of software solutions covering multiple therapies
 
-- [CentralReach](https://centralreach.com) - Practice management, revenue cycle management (RCM) services, clinical solutions + assessments, staff development.
-- [Therapy Brands](https://therapybrands.com) - Two products for ABA (WebABA + Catalyst) and one product for PT / OT / Speech therapies (Fusion).
+- [CentralReach](https://centralreach.com) - Practice + revenue cycle management, clinical solutions, assessments, staff development.
+- [Therapy Brands](https://therapybrands.com) - Two products for ABA and one product for PT / OT / Speech therapies.
+- [Artemis ABA](https://www.artemisaba.com) - Practice management, EMR software, managed billing services and more.
 
 ## 📊 Data Collection
 
 Trial, targets, task analysis and more during therapy sessions
 
 - [SpectrumAi](https://www.spectrumai.com) - Electronic health record (EHR) and network performance for ABA.
-- [Hi Rasmus](https://hirasmus.com) - Custom integrations / API, Single Sign-on (SSO), founded by a tech entrepreneur inspired by his child diagnosed with ASD.
+- [Hi Rasmus](https://hirasmus.com) - API, Single Sign-on (SSO); founded by a tech entrepreneur inspired by his child diagnosed with ASD.
 - [Motivity](https://www.motivity.net) - Reports data collected in real-time.
 
 ## 📒 Practice Management
 
 HIPAA-compliance, appointment scheduling, invoicing and more for behavioral health service providers
 
-- [ABA Building Blocks](https://ababuildingblocks.com) - Consulting and business services including mergers & acquisitions (M&A) and turnkey solutions.
+- [ABA Building Blocks](https://ababuildingblocks.com) - Consulting and business services for M&A, turnkey solutions and more.
 - [Lumary](https://lumary.com) - Workflow optimizations; built on Salesforce.
 
 ## 👫 Personalized Plans
@@ -79,7 +80,7 @@ Repositories for code
 
 - [therapy-aid-tool](https://github.com/solisoares/therapy-aid-tool) - Monitor patient's progress in autism therapies using computer vision.
 - [cboard](https://github.com/cboard-org/cboard) - Augmentative and Alternative Communication (AAC) system with text-to-speech for the browser.
-- [SincNet-for-Autism-EEG-based-Emotion-Recognition](https://github.com/meiyor/SincNet-for-Autism-EEG-based-Emotion-Recognition) - EEG-based emotion recognition using SincNet from ASD patients.
+- [SincNet-for-Autism-EEG-based-Emotion-Recognition](https://github.com/meiyor/SincNet-for-Autism-EEG-based-Emotion-Recognition) - EEG-based emotion recognition from ASD patients.
 
 ## 👐 Contribute
 
