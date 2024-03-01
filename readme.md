@@ -86,6 +86,9 @@ Repositories for code
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
+> [!TIP]
+> If you like the content, **please star this repo and / or consider sponsoring**.
+
 ## ✍️ Authors
 
 - [@hbcondo](https://github.com/hbcondo) - idea & initial work
