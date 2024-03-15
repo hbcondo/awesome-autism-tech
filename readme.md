@@ -75,7 +75,7 @@ Identify learning opportunities and parenting techniques
 Tools caregivers and providers use together
 
 - [Pletly](https://pletly.com) - A suite of apps where everyone shares media & observations in a private social network.
-- [Astrid](https://astrid360.com) - Digital care managemnt tool with shared dashboards between parents, teachers, therapists, doctors and nutritionists.
+- [Astrid](https://astrid360.com) - Shared dashboards between parents, teachers, therapists, doctors and nutritionists.
 
 ## 📜 Resource Libraries
 
@@ -91,7 +91,7 @@ Interactive activities built by educational professionals that can be used durin
 Online and mobile apps made by indie devs that bring enjoyment
 
 - [Token Board](https://www.thetokenboard.com) - A free online and mobile-friendly token board with different shapes & colors.
-- [Visual Countdown Timer](https://apps.apple.com/us/app/visual-countdown-timer/id541364004) - A mobile app developed by a parent to that uses fun pictures to perform a task quickly.
+- [Visual Countdown Timer](https://apps.apple.com/us/app/visual-countdown-timer/id541364004) - iOS app developed by a parent to that uses fun pictures to perform a task quickly.
 
 ## 👓 AR / VR
 
