@@ -12,6 +12,9 @@
 - [Data Collection](#-data-collection)
 - [Practice Management](#-practice-management)
 - [Personalized Plans](#-personalized-plans)
+- [Collaboration](#-collaboration)
+- [Resource Libraries](#-resource-libraries)
+- [Individual Apps](#-individual-apps)
 - [AR / VR](#-ar--vr)
 - [Open Source](#-open-source)
 
@@ -66,6 +69,29 @@ Identify learning opportunities and parenting techniques
 - [Tilly](https://tillytherapy.com) - Dedicated mobile app for tracking child's progress, messaging and scheduling.
 - [Forta Health](https://www.fortahealth.com) - Raised $55 Million Series A to continue AI-enabled ABA therapy and clinical algorithms.
 - [Attend Behavior](https://www.attendbehavior.com) - Learning content, videos and custom support plans in a dedicated mobile app.
+
+## 👯 Collaboration
+
+Tools caregivers and providers use together
+
+- [Pletly](https://pletly.com) - A suite of apps where everyone shares media & observations in a private social network.
+- [Astrid](https://astrid360.com) - Digital care managemnt tool with shared dashboards between parents, teachers, therapists, doctors and nutritionists.
+
+## 📜 Resource Libraries
+
+Interactive activities built by educational professionals that can be used during sessions
+
+- [Boom Cards](https://wow.boomlearning.com) - Learning resources for fast and live play.
+- [Everyday Speech](https://everydayspeech.com) - Social communication cirriculum and social-emotional learning by SLPs.
+- [LessonPix](https://www.lessonpix.com) - Custom materials for learning, communication and behavior.
+- [TPT](https://www.teacherspayteachers.com) - Marketplace for PreK-12 resources including Sppech therapy and Social emotional.
+
+## 📱 Individual Apps
+
+Online and mobile apps made by indie devs that bring enjoyment
+
+- [Token Board](https://www.thetokenboard.com) - A free online and mobile-friendly token board with different shapes & colors.
+- [Visual Countdown Timer](https://apps.apple.com/us/app/visual-countdown-timer/id541364004) - A mobile app developed by a parent to that uses fun pictures to perform a task quickly.
 
 ## 👓 AR / VR
 
