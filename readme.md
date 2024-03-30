@@ -31,7 +31,8 @@ For startups seeking mentorship and funding
 - [Autism Angels Group](https://www.autismangelsgroup.com) - Non-profit; portfolio / investments in FloreoVR and LiftEd (acquired by CentralReach).
 - [Multiple](https://www.multiplehub.org) - Non-profit with 12-week accelerator and lab-to-market programs.
 - [Microsoft Accessibility Grant](https://www.microsoft.com/en-us/accessibility/innovation?rtc=1#coreui-feature-9iujsju) - Funding, mentoring and Azure compute credits with developer support.
-- [Autistica](https://www.autistica.org.uk/) - The UK's leading autism research charity with research projects and funding.
+- [Autistica](https://www.autistica.org.uk) - The UK's leading autism research charity with research projects and funding.
+- [SFARI](https://www.sfari.org) - Simons Foundation Autism Research Initiative (SFARI) research & grant programs.
 
 ## 💻 Hackathons
 
