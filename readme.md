@@ -16,6 +16,7 @@
 - [Resource Libraries](#-resource-libraries)
 - [Individual Apps](#-individual-apps)
 - [AR / VR](#-ar--vr)
+- [Detection](#-detection)
 - [Open Source](#-open-source)
 
 ## 📰 News
@@ -101,6 +102,12 @@ Augmented Reality (AR) / Virtual Reality (VR) wearables
 - [Floreo](https://floreovr.com) - FDA breakthrough designated device for providing VR therapy to the neurodiverse.
 - [SocialWise VR](https://www.socialwisevr.com) - On-Demand VR social skills curriculum for neurodivergent young adults.
 - [JelikaLite](https://jelikalite.com) - Clinical stage therapeutic wearable device for reducing a child's autism symptoms.
+
+## 🔍 Detection
+
+Aids for the detection and diagnosis of ASD
+
+- [EarliTec](https://earlitecdx.com) - FDA-authorized tool that uses AI to track eye movements for diagnosis / assessment.
 
 ## ⛪ Open Source
 
