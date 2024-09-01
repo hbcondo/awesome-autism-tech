@@ -63,6 +63,8 @@ HIPAA-compliance, appointment scheduling, invoicing and more for behavioral heal
 
 - [ABA Building Blocks](https://ababuildingblocks.com) - Consulting and business services for M&A, turnkey solutions and more.
 - [Lumary](https://lumary.com) - Workflow optimizations; built on Salesforce.
+- [Finny Health](https://www.ycombinator.com/companies/finni-health) - `YCombinator` Empowering Autism Care Providers to Go Independent.
+- [Hippo Scribe](https://www.ycombinator.com/companies/hippo-scribe) - `YCombinator` AI assisted documentation for PT/OT/SLP
 
 ## 👫 Personalized Plans
 
@@ -71,6 +73,7 @@ Identify learning opportunities and parenting techniques
 - [Tilly](https://tillytherapy.com) - Dedicated mobile app for tracking child's progress, messaging and scheduling.
 - [Forta Health](https://www.fortahealth.com) - Raised $55 Million Series A to continue AI-enabled ABA therapy and clinical algorithms.
 - [Attend Behavior](https://www.attendbehavior.com) - Learning content, videos and custom support plans in a dedicated mobile app.
+- [Joon Health](https://www.ycombinator.com/companies/joon-health) - `YCombinator` All-in-one parent training and engagement platform for BCBAs.
 
 ## 👯 Collaboration
 
@@ -102,6 +105,7 @@ Augmented Reality (AR) / Virtual Reality (VR) wearables
 - [Floreo](https://floreovr.com) - FDA breakthrough designated device for providing VR therapy to the neurodiverse.
 - [SocialWise VR](https://www.socialwisevr.com) - On-Demand VR social skills curriculum for neurodivergent young adults.
 - [JelikaLite](https://jelikalite.com) - Clinical stage therapeutic wearable device for reducing a child's autism symptoms.
+- [Arrows](https://www.ar-rows.com) - Virtual social coach using Generative AI.
 
 ## 🔍 Detection
 
