@@ -16,7 +16,7 @@
 - [Resource Libraries](#-resource-libraries)
 - [Individual Apps](#-individual-apps)
 - [AR / VR](#-ar--vr)
-- [Detection](#-detection)
+- [Detection / Treatment](#-detection--treatment)
 - [Open Source](#-open-source)
 
 ## 📰 News
@@ -34,6 +34,7 @@ For startups seeking mentorship and funding
 - [Microsoft Accessibility Grant](https://www.microsoft.com/en-us/accessibility/innovation?rtc=1#coreui-feature-9iujsju) - Funding, mentoring and Azure compute credits with developer support.
 - [Autistica](https://www.autistica.org.uk) - The UK's leading autism research charity with research projects and funding.
 - [SFARI](https://www.sfari.org) - Simons Foundation Autism Research Initiative (SFARI) research & grant programs.
+- [HealthTech Capital](https://healthtechcapital.com) - Invest and mentor "HealthTech" startups with angels, healthcare, venture and corporate investors.
 
 ## 💻 Hackathons
 
@@ -73,14 +74,14 @@ Identify learning opportunities and parenting techniques
 - [Tilly](https://tillytherapy.com) - Dedicated mobile app for tracking child's progress, messaging and scheduling.
 - [Forta Health](https://www.fortahealth.com) - Raised $55 Million Series A to continue AI-enabled ABA therapy and clinical algorithms.
 - [Attend Behavior](https://www.attendbehavior.com) - Learning content, videos and custom support plans in a dedicated mobile app.
-- [Joon Health](https://www.ycombinator.com/companies/joon-health) - `YCombinator` All-in-one parent training and engagement platform for BCBAs.
 
 ## 👯 Collaboration
 
 Tools caregivers and providers use together
 
 - [Pletly](https://pletly.com) - A suite of apps where everyone shares media & observations in a private social network.
-- [Astrid](https://astrid360.com) - Shared dashboards between parents, teachers, therapists, doctors and nutritionists.
+- [Joon Health](https://www.ycombinator.com/companies/joon-health) - `YCombinator` All-in-one parent training and engagement platform for BCBAs.
+
 
 ## 📜 Resource Libraries
 
@@ -107,11 +108,14 @@ Augmented Reality (AR) / Virtual Reality (VR) wearables
 - [JelikaLite](https://jelikalite.com) - Clinical stage therapeutic wearable device for reducing a child's autism symptoms.
 - [Arrows](https://www.ar-rows.com) - Virtual social coach using Generative AI.
 
-## 🔍 Detection
+## 🔍 Detection / Treatment
 
-Aids for the detection and diagnosis of ASD
+Aids for the detection, diagnosis and treatment of ASD
 
 - [EarliTec](https://earlitecdx.com) - FDA-authorized tool that uses AI to track eye movements for diagnosis / assessment.
+- [Autism Discovery and Treatment Foundation](https://autismdiscovery.org) - Researching predictive biomarkers of autism.
+- [Gut-Brain Axis Therapeutics, Inc.](https://gutbrainaxistherapeutics.com) - Microbiota Transplant Therapy (MTT) for ASD patients (pre-FDA).
+- [Harkla](https://harkla.co) - Specializing in products for special needs children.
 
 ## ⛪ Open Source
 
