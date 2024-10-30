@@ -97,7 +97,8 @@ Interactive activities built by educational professionals that can be used durin
 Online and mobile apps made by indie devs that bring enjoyment
 
 - [Token Board](https://www.thetokenboard.com) - A free online and mobile-friendly token board with different shapes & colors.
-- [Visual Countdown Timer](https://apps.apple.com/us/app/visual-countdown-timer/id541364004) - iOS app developed by a parent to that uses fun pictures to perform a task quickly.
+- [Visual Countdown Timer](https://apps.apple.com/us/app/visual-countdown-timer/id541364004) - iOS app developed by a parent that uses fun pictures to perform a task quickly.
+- [Accessible Chef](https://accessiblechef.com) - A collection of free visual recipes that makes use of task analysis.
 
 ## 👓 AR / VR
 
