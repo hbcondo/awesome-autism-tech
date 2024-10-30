@@ -107,6 +107,7 @@ Augmented Reality (AR) / Virtual Reality (VR) wearables
 - [SocialWise VR](https://www.socialwisevr.com) - On-Demand VR social skills curriculum for neurodivergent young adults.
 - [JelikaLite](https://jelikalite.com) - Clinical stage therapeutic wearable device for reducing a child's autism symptoms.
 - [Arrows](https://www.ar-rows.com) - Virtual social coach using Generative AI.
+- [MOVIA Robotics](https://moviarobotics.com) - Robot-Assisted Instruction (RAI) for Autism & other special needs.
 
 ## 🔍 Detection / Treatment
 
