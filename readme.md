@@ -124,6 +124,7 @@ Repositories for code
 - [therapy-aid-tool](https://github.com/solisoares/therapy-aid-tool) - Monitor patient's progress in autism therapies using computer vision.
 - [cboard](https://github.com/cboard-org/cboard) - Augmentative and Alternative Communication (AAC) system with text-to-speech for the browser.
 - [SincNet-for-Autism-EEG-based-Emotion-Recognition](https://github.com/meiyor/SincNet-for-Autism-EEG-based-Emotion-Recognition) - EEG-based emotion recognition from ASD patients.
+- [AsTeRICS Grid](https://github.com/asterics/AsTeRICS-Grid) - An adaptable grid-based application designed for versatile use cases, including Augmentative and Alternative Communication (AAC), Smart Home control, and multimedia playback as a web radio or YouTube player.
 
 ## 👐 Contribute
 
