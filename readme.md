@@ -91,6 +91,7 @@ Interactive activities built by educational professionals that can be used durin
 - [Everyday Speech](https://everydayspeech.com) - Social communication cirriculum and social-emotional learning by SLPs.
 - [LessonPix](https://www.lessonpix.com) - Custom materials for learning, communication and behavior.
 - [TPT](https://www.teacherspayteachers.com) - Marketplace for PreK-12 resources including Sppech therapy and Social emotional.
+- [Pink Cat Games](https://www.pinkcatgames.com) - Used by SLPs and special education teachers to motivate students to practice skills.
 
 ## 📱 Individual Apps
 
