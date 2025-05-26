@@ -24,6 +24,7 @@
 Current events and headlines
 
 - [The Transmitter](https://www.thetransmitter.org/) - Formerly SpectrumNews.org, this is a new publication for the neuroscience community.
+- [Associated Press](https://apnews.com/hub/autism) - Factual and non-partisan news hub on autism.
 
 ## 🌱 Incubators
 
@@ -35,6 +36,7 @@ For startups seeking mentorship and funding
 - [Autistica](https://www.autistica.org.uk) - The UK's leading autism research charity with research projects and funding.
 - [SFARI](https://www.sfari.org) - Simons Foundation Autism Research Initiative (SFARI) research & grant programs.
 - [HealthTech Capital](https://healthtechcapital.com) - Invest and mentor "HealthTech" startups with angels, healthcare, venture and corporate investors.
+- [AIF](https://autismimpact.fund) - Autism Impact Fund (AIF) for deploying venture capital to autism solutions.
 
 ## 💻 Hackathons
 
@@ -74,6 +76,7 @@ Identify learning opportunities and parenting techniques
 - [Tilly](https://tillytherapy.com) - Dedicated mobile app for tracking child's progress, messaging and scheduling.
 - [Forta Health](https://www.fortahealth.com) - Raised $55 Million Series A to continue AI-enabled ABA therapy and clinical algorithms.
 - [Attend Behavior](https://www.attendbehavior.com) - Learning content, videos and custom support plans in a dedicated mobile app.
+- [Verse Therapy](https://www.ycombinator.com/companies/verse-therapy) - `YCombinator` Personalized speech therapy online and in-person.
 
 ## 👯 Collaboration
 
@@ -92,6 +95,7 @@ Interactive activities built by educational professionals that can be used durin
 - [LessonPix](https://www.lessonpix.com) - Custom materials for learning, communication and behavior.
 - [TPT](https://www.teacherspayteachers.com) - Marketplace for PreK-12 resources including Sppech therapy and Social emotional.
 - [Pink Cat Games](https://www.pinkcatgames.com) - Used by SLPs and special education teachers to motivate students to practice skills.
+- [GoGo Speech](https://www.gogospeech.com) - Play-based digital resources to promote speech & language development in kids.
 
 ## 📱 Individual Apps
 
@@ -119,6 +123,8 @@ Aids for the detection, diagnosis and treatment of ASD
 - [Autism Discovery and Treatment Foundation](https://autismdiscovery.org) - Researching predictive biomarkers of autism.
 - [Gut-Brain Axis Therapeutics, Inc.](https://gutbrainaxistherapeutics.com) - Microbiota Transplant Therapy (MTT) for ASD patients (pre-FDA).
 - [Harkla](https://harkla.co) - Specializing in products for special needs children.
+- [Exin Therapeutics](https://www.ycombinator.com/companies/exin-therapeutics) - `YCombinator` AI drug discovery platform for neurotherapeutics, starting with autism.
+- [MeRT](https://braintreatmentusa.com/autism/) - Magnetic e-Resonance Therapy for autism (pre-FDA).
 
 ## ⛪ Open Source
 
