@@ -25,6 +25,7 @@ Current events and headlines
 
 - [The Transmitter](https://www.thetransmitter.org/) - Formerly SpectrumNews.org, this is a new publication for the neuroscience community.
 - [Associated Press](https://apnews.com/hub/autism) - Factual and non-partisan news hub on autism.
+- [EurekAlert!](https://www.eurekalert.org/advancedSearch/1118339) - News and multimedia releases for autism hosted by non-profit American Association for the Advancement of Science (AAAS) 
 
 ## 🌱 Incubators
 
@@ -133,7 +134,8 @@ Repositories for code
 - [therapy-aid-tool](https://github.com/solisoares/therapy-aid-tool) - Monitor patient's progress in autism therapies using computer vision.
 - [cboard](https://github.com/cboard-org/cboard) - Augmentative and Alternative Communication (AAC) system with text-to-speech for the browser.
 - [SincNet-for-Autism-EEG-based-Emotion-Recognition](https://github.com/meiyor/SincNet-for-Autism-EEG-based-Emotion-Recognition) - EEG-based emotion recognition from ASD patients.
-- [AsTeRICS Grid](https://github.com/asterics/AsTeRICS-Grid) - An adaptable grid-based application designed for versatile use cases, including Augmentative and Alternative Communication (AAC), Smart Home control, and multimedia playback as a web radio or YouTube player.
+- [AsTeRICS Grid](https://github.com/asterics/AsTeRICS-Grid) - An adaptable grid-based application designed for AAC, smart home control, multimedia playback and more.
+- [Visual Genius](https://github.com/kimtth/visual-genius) - Communication assistant / visual learning aids.
 
 ## 👐 Contribute
 
