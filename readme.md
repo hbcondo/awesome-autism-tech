@@ -38,6 +38,7 @@ For startups seeking mentorship and funding
 - [SFARI](https://www.sfari.org) - Simons Foundation Autism Research Initiative (SFARI) research & grant programs.
 - [HealthTech Capital](https://healthtechcapital.com) - Invest and mentor "HealthTech" startups with angels, healthcare, venture and corporate investors.
 - [AIF](https://autismimpact.fund) - Autism Impact Fund (AIF) for deploying venture capital to autism solutions.
+- [Entrepreneurial Support Hub](https://www.eshub.org) - Supportive network, funding clarity and resources for turning ideas into social impact.
 
 ## 💻 Hackathons
 
