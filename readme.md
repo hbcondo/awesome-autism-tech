@@ -137,6 +137,7 @@ Repositories for code
 - [SincNet-for-Autism-EEG-based-Emotion-Recognition](https://github.com/meiyor/SincNet-for-Autism-EEG-based-Emotion-Recognition) - EEG-based emotion recognition from ASD patients.
 - [AsTeRICS Grid](https://github.com/asterics/AsTeRICS-Grid) - An adaptable grid-based application designed for AAC, smart home control, multimedia playback and more.
 - [Visual Genius](https://github.com/kimtth/visual-genius) - Communication assistant / visual learning aids.
+- [freevoice-aac](https://github.com/Chuea81/freevoice-aac) - Free, open-source AAC communication app for nonverbal children. No subscription. No account. Works offline.
 
 ## 👐 Contribute
 
