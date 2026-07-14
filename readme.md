@@ -98,6 +98,7 @@ Interactive activities built by educational professionals that can be used durin
 - [TPT](https://www.teacherspayteachers.com) - Marketplace for PreK-12 resources including Sppech therapy and Social emotional.
 - [Pink Cat Games](https://www.pinkcatgames.com) - Used by SLPs and special education teachers to motivate students to practice skills.
 - [GoGo Speech](https://www.gogospeech.com) - Play-based digital resources to promote speech & language development in kids.
+- [Autism Skills](https://autism-skills.com/) - Practical articles and guides for communication, play, routines, school readiness and daily living skills.
 
 ## 📱 Individual Apps
 
