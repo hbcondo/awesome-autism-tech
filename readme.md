@@ -139,7 +139,7 @@ Repositories for code
 - [Visual Genius](https://github.com/kimtth/visual-genius) - Communication assistant / visual learning aids.
 - [freevoice-aac](https://github.com/Chuea81/freevoice-aac) - Free, open-source AAC communication app for nonverbal children. No subscription. No account. Works offline.
 - [proyecto-abrazo](https://github.com/marianomarcuchi2025/proyecto-abrazo) - Emotional regulation web app for autistic children: body traffic light, emergency alert button and guided breathing (Spanish UI, MVP).
-- 
+
 ## 👐 Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
