@@ -109,6 +109,7 @@ Online and mobile apps made by indie devs that bring enjoyment
 - [Accessible Chef](https://accessiblechef.com) - A collection of free visual recipes that makes use of task analysis.
 - [Masked But Aware Crisis Mode](https://www.maskedbutaware.nl/en/tools/crisis-mode) - Free, low-stimulation browser tool for reducing sensory input and showing a prepared phrase when speaking becomes difficult. No account required.
 - [Dopastep](https://dopastep.com) - Web app for body doubling: break a task into steps, then join a live focus room and work alongside other people in synced focus and break cycles.
+- [ReadySetSay](https://readysetsay.com/play.html) - Free, calm browser game made by a parent for kids who learn language in whole phrases (gestalt language processors): tap to launch a rocket and hear short, steady phrases. No account, ads or tracking; also an iPad and iPhone app.
 
 ## 👓 AR / VR
 
